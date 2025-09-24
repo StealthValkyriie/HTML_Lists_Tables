@@ -1,0 +1,31 @@
+body{
+  background-color: antiquewhite;
+  color: darkorchid;  
+}
+
+h1{
+    color: crimson;
+    border: 5px solid brown;
+}
+
+h2{
+    color: rgb(74, 163, 179);
+    border: 3px dotted orange;
+}
+
+p{
+    color:rgb(43, 228, 166);
+}
+
+th{
+    color: deeppink;
+}
+
+ul, ol{
+    border: 10px groove black;
+    border-radius: 10px;
+}
+
+table{
+    border: 2px dotted violet;
+}
